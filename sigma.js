@@ -35,7 +35,9 @@
                 hero.style.transform = `translateY(${scrolled * 0.5}px)`;
             }
         });
-
+        function contact() {
+        alert('yourboypog@gmail.com or @airzgtag on discord')
+        };
         const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
         const navLinks = document.querySelector('.nav-links');
 
